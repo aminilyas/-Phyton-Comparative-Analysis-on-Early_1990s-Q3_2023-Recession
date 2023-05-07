@@ -23,7 +23,7 @@ investors are not comfortable doing it.
 own.
 • This type of strategy has been successful enough that put-selling exchange-traded 
 funds (ETFs) are now available for the S&P 500.
-
+<b><p>ABOUT PROJECT</b></p>
 <p>Team Member: Amin ILYAS, Krati SHARMA, and Younes OUAHI
 <br>Course Title: Financial Data Visualization
 <br>Supervisor: Wenbin Cao
