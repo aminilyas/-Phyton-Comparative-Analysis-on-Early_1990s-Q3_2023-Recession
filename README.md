@@ -1,4 +1,4 @@
-# Comparative Analysis of Early 1990's and Expected 2Q2023's Recession through Data Visualization
+# [Phyton] Comparative Analysis of Early 1990's and Expected 2Q2023's Recession through Data Visualization
 <p>In this project, I and my group perform a comparative analysis on the Early 1990's and Expected 2Q2023 Recession through data visualization.</p> 
 <p>We use evidence from the U.S. market.</p>
 <p><b>PROJECT BAKCGROUND</b></p>
